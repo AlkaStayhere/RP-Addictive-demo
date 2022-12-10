@@ -1,0 +1,434 @@
+
+
+@import url('https://fonts.cdnfonts.com/css/itc-avant-garde-gothic-std');
+@font-face  {
+     font-family: ITC Avant Garde Gothic Std;  
+    src: url("ITC Avant Garde Gothic Std");
+ }
+.container{
+    max-width: 902px;
+    margin: 0 auto;
+}
+.customer{
+color: red;
+font-size: 16px;
+}
+.header-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.second-smart-wrapper {
+    display: flex;
+    max-width: 902px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;
+    font-family: 'ITC Avant Garde Gothic Std', sans-serif;
+
+
+}
+
+.some-of-best {
+    font-size: 55px;
+    width: 565px;
+    font-family: 'ITC Avant Garde Gothic Std', sans-serif;
+
+}
+
+.number-cement {
+    color: #F0E3D8;
+}
+
+.indus-para {
+    font-size: 10px;
+    margin-top: 10px;
+}
+
+.slider {
+    display: flex;
+    gap: 30px;
+    margin-top: 90px;
+}
+
+.inds-img {
+    margin-left: 15px;
+}
+
+.cement-in-para-wrapper {
+    margin-left: 20px;
+    font-family: 'ITC Avant Garde Gothic Std', sans-serif;
+
+}
+.customer-first{
+    color: #fff;
+
+}
+.carosel-one {
+    height: 500px;
+    background: white;
+    box-shadow: 0 6px 16px -8px #777;
+}
+
+.number {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 65px;
+    font-family: 'ITC Avant Garde Gothic Std', sans-serif;
+   
+}
+.border-right{
+    border-right: 1px solid #C4C4C4;
+    padding-right: 115px;
+    text-align: center;
+
+}
+.number-wrapper {
+    display: flex;
+    max-width: 902px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.indus-cement {
+    display: flex;
+    margin-bottom: 60px;
+    padding-left: 40px;
+}
+
+.indus-cement-wrapper {
+    max-width: 878px;
+    margin-left: auto;
+    margin-right: auto;
+    border-left: 1px solid #EC2232;
+    margin-top: 55px;
+}
+
+.pink-plus {
+    background: #EC2232;
+    opacity: 0.2;
+}
+.best-of-best{
+    padding: 32px 10px 10px 30px;
+    font-size: 21px;
+    width: 199px;
+
+}
+.indus-serve2 {
+    font-size: 57px;
+    font-weight: bold;
+
+}
+.internal-procurement{
+    position: absolute;
+    top: 21%;
+    left: 26%;
+    font-family: 'ITC Avant Garde Gothic Std', sans-serif;
+
+
+}
+.iws-text-iws-2{
+    font-family: 'ITC Avant Garde Gothic Std', sans-serif;
+
+}
+.first-choice-pro{
+    font-size: 50px;
+    width: 678px;
+    margin-top: 15px;
+    font-family: 'ITC Avant Garde Gothic Std', sans-serif;
+
+
+}
+.arrow-wrapper {
+    display: flex;
+    border-bottom: 1px solid #222222;
+    height: 20px;
+    width: 105px;
+}
+
+.rp {
+    font-weight: bold;
+    font-size: 22px;
+    font-family: 'ITC Avant Garde Gothic Std', sans-serif;
+
+}
+
+.our-indus-exper {
+    margin-left: 23px;
+    margin-top: 0px;
+}
+
+.indus-serve-wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px 10px 302px;
+    margin-top: 220px;
+}
+
+.one-wrapper {
+    display: flex;
+}
+
+.company-logo-wrapper {
+    max-width: 902px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.company-logo {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 45px;
+}
+
+.blue-back {
+    width: 50%;
+    height: 700px;
+    background: #0E3466;
+}
+
+.white-back {
+    background: #F8F8F8;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    z-index: 99;
+}
+
+.footer-form-wrapper {
+    display: flex;
+    margin-top: 100px;
+    position: relative;
+}
+
+.social-icon {
+    display: flex;
+    justify-content: end;
+}
+.footer-list{
+    display: flex;
+}
+.black-footer {
+    display: flex;
+    font-size: 15px;
+    line-height: 27px;
+    justify-content: space-around;
+    background: #181818;
+    color: white;
+    align-items: center;
+    font-family: 'ITC Avant Garde Gothic Std', sans-serif;
+padding: 25px;
+
+}
+
+.about-us {
+    font-size: 18px;
+    line-height: 36px;
+}
+
+.submit-button {
+    width: 170px;
+    height: 52px;
+    background: #EC2232;
+    border-radius: 40px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    margin-top: 15px;
+
+}
+
+.infra-people-wrapper {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    line-height: 23px;
+    margin-top: 55px;
+}
+
+.position-left-bottom {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+.position-top-right {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.infra-wrapper {
+    position: relative;
+}
+
+.factory {
+    font-size: 10px;
+}
+.registered-wrapper{
+    width: 200px;
+    height: 368px;
+    background: white;
+    padding: 25px;
+    font-family: 'AvertaStd-Regular', sans-serif;
+
+
+}
+
+.infra-internal {
+    position: absolute;
+    top: 19%;
+    left: 24%;
+    font-family: 'ITC Avant Garde Gothic Std', sans-serif;
+
+}
+
+.blue-back {
+    position: relative;
+    height: 580px;
+}
+
+.get-in-touch-internal {
+    position: absolute;
+    top: 13%;
+    left: 24%;
+}
+
+.touch-input {
+    width: 255px;
+    border-radius: 5px;
+    padding: 10px 10px 10px 35px;
+}
+
+.input-img-wrapper {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.main-img-wrapper {
+    position: relative;
+    padding: 10px 35px 10px 35px;
+}
+ .best-machin-wrapper {
+    position: absolute;
+    color: white;
+    top: 16%;
+    font-size: 75px;
+    width: 817px;
+    left: 8%;
+    font-family: 'ITC Avant Garde Gothic Std', sans-serif;
+} 
+.touch-textarea {
+    width: 345px;
+    padding: 10px;
+    border-radius: 5px;
+    height: 80px;
+}
+
+.get-heading {
+    font-size: 40px;
+    color: white;
+    font-family: 'ITC Avant Garde Gothic Std', sans-serif;
+
+
+}
+
+.form-wrapper {
+    border-top: 2px solid white;
+    width: 109px;
+    margin-top: 10px;
+    font-family: 'AvertaStd-Regular', sans-serif;
+
+}
+.plus-icon{
+    color: red;
+}
+.infra-world {
+    font-size: 55px;
+    color: white;
+    width: 395px;
+    margin-top: 18px;
+
+
+}
+
+.infra-para {
+    color: white;
+    width: 450px;
+
+}
+.infra-number{
+    font-weight: bold;
+    font-size: 18px;
+
+}
+.red-heading-industry{
+    color: #EC2232;
+    text-align: center;
+    margin-top: 100px;
+    font-family: 'ITC Avant Garde Gothic Std', sans-serif;
+
+
+}
+.factory{
+    font-family: 'ITC Avant Garde Gothic Std', sans-serif;
+    font-size: 16px;
+
+}
+.outline-text {
+    color: white;
+    font-size: 45px;
+    
+    text-shadow:
+	   -1px -1px 0 #000,  
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		 1px 1px 0 #000
+        
+}
+
+.map-wrapper{
+    width: 100%;
+    display: flex;
+    margin-left: -75px;
+}
+@supports((text-stroke: 2px #353535) or (-webkit-text-stroke: 2px #353535)) {
+    .outline-text {
+        color: transparent;
+        -webkit-text-stroke: 2px #353535;
+        text-shadow: none;
+        
+    }
+}
+
+.iws-1{
+    margin: 0;
+}
+
+.iws-2{
+    z-index: 50;
+    position: absolute;
+    top: 30px;
+    right: 0;
+    background: #fff;
+    margin: 0;
+}
+.iws-text{
+    z-index: 100;
+    position: absolute;
+    top: 60px;
+    left: 0;
+    right: 0;
+    background: #fff;
+    margin: 0;
+    font-size: 45px;
+    color: #000;
+}
